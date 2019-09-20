@@ -1,0 +1,117 @@
+
+Page1.
+1. Slideshow
+(12 Picture)
+-> Trả lời:
+   > Tất cả có 4 slide. (Slide 1, Slide 2, Slide 3, Slide 4).
+   
+   > Mỗi slide sẽ có số lượng hình theo 3 Option bên dưới:
+   Option 1: 3 hình.
+   Option 2: 1 hình.
+   Option 3: 4 hình.
+   
+   > Admin có thể chọn Option cho từng Slide.
+   Ví dụ: 
+    Cách 1:
+     Slide 1 - Option 1 (3 hình)
+	 Slide 2 - Option 1 (3 hình)
+	 Slide 3 - Option 1 (3 hình)
+	 Slide 4 - Option 1 (3 hình)
+	Cách 2:
+	 Slide 1 - Option 1 (3 hình)
+	 Slide 2 - Option 2 (1 hình)
+	 Slide 3 - Option 2 (1 hình)
+	 Slide 4 - Option 3 (4 hình)
+
+2. 場所： (location).　confirm khach hang hien thi field nao.
+  a. Kansai or Kanto.
+  b. Province? Neu la Province thi can bat buoc khai bao field nay.
+-> Trả lời: hiện thị field province.
+-> K'review: Done
+  
+3. Format hien thi so:
+   20,000: 20 nghin.
+   Hien thi ngay 2019/10/09
+
+   
+4. Phan ben duoi chi hien thi Title bai viet, ko hien thi thong tin khac.
+
+5. Hien thi tren Banner co phai la bai Post ko?
+-> Trả lời: Ko nhất thiết phải là Post. Admin có thể set hình, và link tùy ý.
+
+6. Category, hien thi toi cap do may.
+-> Trả lời: chỉ cần hiển thị tới cấp độ category 1.
+   (Tức tổng là 20 mục: tổ hợp của Kansai, Kanto với 10 category cấp 1 )
+
+7. Favorite: đen , opacity 50%.
+
+8. Footer : confirm text voi k/h.
+
+9. Gan link den trang detail tu trang ben duoi.
+http://aw-site.khanhhq.com//?s&area=kanto
+
+Page2.
+1. ...さん　－＞Ten Account Login (Field Name).
+2. Upload hinh.
+3. Chinh text:
+Nhap lai e-mail sai: メールアドレスに誤りがあります
+4. Text thi luu lai.
+Sau khi doi thanh thang cong: The data has been update successfully.
+Doi them 1 lan nua bi sai, van hien thi messege tren.
+5. Vi tri text 変更, sua lai nam ben trong.
+
+Page3. 
+1. Lien quan den dang Post moi. 
+依頼内容種類2 -> Category 2. (bat buoc)
+2. Category cap 1, cap 2 nhap het.
+   Cap 3, cap 4 se confirm khach hang.
+->Trả lời: 
+   category cấp 3 「モデル希望」 thì category cấp 4 là 4 mục 「ポートレート、フェチ、ヌード、その他」
+   category cấp 3 「モデル募集」 thì category cấp 4 vẫn là 4 mục: 「ポートレート、フェチ、ヌード、その他」
+   
+3. Chinh layout khi hien thi category con de tranh bi de. Them layout khi hien thi category 3-4.
+4. Form gui e-mail Q&A.
+Gui email den Admin. -> Confirm k/h e-mail Admin nao?
+
+Page 4/5.
+1. Cac trang search thong nhat tieu de: 検索結果　依頼一覧
+
+2. Lien quan den Details Page.
+   Bo ten Title. (Theo file pdf: カテゴリ１　＞　カテゴリ２　＞　カテゴリ３　＞　カテゴリ４)
+3. Neu ko co hinh, bo slider 3 hinh.
+4. Them dau "," cach don vi hang nghin.
+5. Nhan 「依頼者にメッセージを送る」 
+   >Hien thi trong List Message.
+   >Tren man hinh hien thi text: 「依頼者にメッセージを送信しました」 (Nhay len Popup thong bao?)
+   >Gui e-mail tu dong tu Admin voi tieu de: 「管理者から自動メールが届く」
+    Noi dung thi ben Admin co the thay doi.
+
+Page 6.
+1. Hoi k/h xin Logo
+-> Trả lời: Đã có Logo
+
+Page 7.
+0. Kiem tra lai version layout. (xem luon phan Post Details).
+1. Tat Popup Search Condition khi re chuot len tren Menu.
+2. Popup Search Condition: Opacity 80%.
+3. Doi mau khung sau khi Search Condition: FF0092
+4. Continue Reading : mau giong mau cua Category do (11 mau khac nhau).
+   Tuy nhien, trang list cua ket qua search thi hien thi theo mau tren cung (FF0092).
+5. 2 trang : 
+  >  プライバシーポリシー 
+  >  利用規約
+
+Page 8.
+1. Category 2 la bat buoc.
+2. Category 2 la con cua category 1.
+3. So tien cach bang dau ",".	
+4. Trang Favorite bi rot chu.
+5. Hien thi Details Message:
+  > Date: date moi nhat.
+  > Title: Ten bai viet?
+  >	Location:(場所）　→ Province.
+  >依頼種別: Category 1? ????
+  >QnA: ko thay ten nguoi gui? (can them thong tin nguoi gui/ thanh vien)
+-> Trả lời: thêm cột tên người hướng dẫn.  
+
+ 

@@ -1,0 +1,21 @@
+Name:Khanh
+E-mail :kitsaten@gmail.com
+Pass: Khanh@123
+
+1. スライドショー
+この部分は、上記の「４スライド」、「１枚の画像」、「４枚の画像スライドショー」
+の３つの中からどのタイプで表示させるか管理者ページから設定可能
+
+2. 「場所」はどんなところを表示しますか。
+
+3. Hien thi category theo may cap do.
+
+4. ・続きを読む　→　各カテゴリの一覧ページへジャンプ
+ex )　「関西　モデル案件一覧」→　続きを読む　→
+関西　モデル案件一覧のみでソートされた結果ページが表示
+-> Can hien thi dung mau khong.
+
+5. Footer Text.
+
+
+
